@@ -8,3 +8,9 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.core.net 1 0 2017-04-11 23:36:04.944
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-04-11 23:38:32.720
+!MESSAGE Indexed 'geomaph.lib' (1 sources, 7 headers) in 2.2 sec: 629 declarations; 739 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-04-11 23:38:34.993
+!MESSAGE Indexed 'geomaph.test' (1 sources, 63 headers) in 2.14 sec: 1,385 declarations; 1,962 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
