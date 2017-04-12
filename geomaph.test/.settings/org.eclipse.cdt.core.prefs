@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1387570581/DYLD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1387570581/DYLD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1387570581/DYLD_LIBRARY_PATH/value=/Users/danieltorres/Documents/github/geomaph/geomaph.lib/Debug
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1387570581/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.1387570581/appendContributed=true
